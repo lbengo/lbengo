@@ -3,8 +3,10 @@
 ### 42 School Projects
 
 <div align="center">
-<a href="https://github.com/lbengo/42_School/tree/main/Cursus/Libft">(https://github.com/lbengo/42_School/blob/main/42_badges/libfte.png)</a>
+  
+<a href="https://github.com/lbengo/42_School/tree/main/Cursus/Libft">![42 Badge](https://github.com/lbengo/42_School/blob/main/42_badges/libfte.png)</a>
 <a href="https://github.com/lbengo/42_School/tree/main/Cursus/ft_printf">![42 Badge](https://github.com/lbengo/42_School/blob/main/42_badges/ft_printfe.png)</a>
+  
 </div>
 
 <details>
@@ -15,19 +17,6 @@
 | [libft](https://github.com/lbengo/42_School/tree/main/Cursus/Libft)               | C          | 125% | Create a library of basic functions.                                  |
 | [ft_printf](https://github.com/lbengo/42_School/tree/main/Cursus/ft_printf)       | C          | 100% | Recode the standard C library function, printf.                       |
 </details>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <!--
 **lbengo/lbengo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
