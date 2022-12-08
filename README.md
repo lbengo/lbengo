@@ -1,6 +1,6 @@
 ## Hello World, it's Laura 🤙
 
-### 42 School Projects
+### Proyectos de 42_School
 
 <div align="center">
   
@@ -11,13 +11,13 @@
 </div>
 
 <details>
-<summary>More information about these 42 school projects</summary>
+<summary>Más información sobre los proyectos de 42_School</summary>
 
 | Project                                                  |  Language  | Grade| Description                                                           |
 |----------------------------------------------------------|------------|------|-----------------------------------------------------------------------|
-| [libft](https://github.com/lbengo/42_School/Cursus/Libft)| C          | 125% | Create a library of basic functions.                                  |
-| [ft_printf](https://github.com/lbengo/42_School/Cursus/ft_printf)| C  | 100% | Recode the standard C library function, printf.                       |
-| [GNL](https://github.com/lbengo/42_School/Cursus/get_next_line)| C    | 100% | Read a single line from a file descriptor, can be used in a loop.     |
+| [libft](https://github.com/lbengo/42_School/Cursus/Libft)| C          | 125% | Crear una biblioteca de funciones básicas.                            |
+| [ft_printf](https://github.com/lbengo/42_School/Cursus/ft_printf)| C  | 100% | Recodificar la función estándar de la biblioteca C, printf.           |
+| [GNL](https://github.com/lbengo/42_School/Cursus/get_next_line)| C    | 100% | Programar una función que devuelva una línea de un file descriptor.   |
 </details>
 
 <!--
