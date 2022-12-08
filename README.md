@@ -11,7 +11,7 @@
 </div>
 
 <details>
-<summary>Más información sobre los proyectos de 42_School</summary>
+<summary>Más información sobre los proyectos</summary>
 
 | Project                                                  |  Language  | Grade| Description                                                           |
 |----------------------------------------------------------|------------|------|-----------------------------------------------------------------------|
