@@ -15,9 +15,9 @@
 
 | Project                                                  |  Language  | Grade| Description                                                           |
 |----------------------------------------------------------|------------|------|-----------------------------------------------------------------------|
-| [libft](https://github.com/lbengo/42_School/Cursus/Libft)| C          | 125% | Crear una biblioteca de funciones básicas.                            |
-| [ft_printf](https://github.com/lbengo/42_School/Cursus/ft_printf)| C  | 100% | Recodificar la función estándar de la biblioteca C, printf.           |
-| [GNL](https://github.com/lbengo/42_School/Cursus/get_next_line)| C    | 100% | Programar una función que devuelva una línea de un file descriptor.   |
+| [libft](https://github.com/lbengo/42_School/tree/main/Cursus/Libft)|C | 125% | Crear una biblioteca de funciones básicas.                            |
+| [ft_printf](https://github.com/lbengo/42_School/tree/main/Cursus/ft_printf)|C|100%| Recodificar la función estándar de la biblioteca C, printf.      |
+| [GNL](https://github.com/lbengo/42_School/tree/main/Cursus/get_next_line)|C|100%| Programar una función que devuelva una línea de un file descriptor.|
 </details>
 
 <!--
