@@ -1,6 +1,6 @@
 ## Hello World, it's Laura 🤙
 
-### Proyectos de 42_School
+### Proyectos realizados
 
 <div align="center">
   
