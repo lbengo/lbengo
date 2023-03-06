@@ -14,12 +14,12 @@
 <details>
 <summary>More information about these projects</summary>
 
-| Project                                                  |  Language  | Grade| Description                                                           |
-|----------------------------------------------------------|------------|------|-----------------------------------------------------------------------|
-| [libft](https://github.com/lbengo/42_School/tree/main/Cursus/Libft)|C | 125% | Create a library of basic C functions.                                |
-| [ft_printf](https://github.com/lbengo/42_School/tree/main/Cursus/ft_printf)|C|100%| Recode the standard C library function, printf.                  |
-| [GNL](https://github.com/lbengo/42_School/tree/main/Cursus/get_next_line)|C|105%| Read a single line from a file descriptor, can be used in a loop.  |
-| [so_long](https://github.com/lbengo/42_School/tree/main/Cursus/so_long)|C|100%| Create a simple 2D game.                                             |
+| Level| Project                                                  |  Language  | Grade| Description                                                     |
+|------|----------------------------------------------------------|------------|------|-----------------------------------------------------------------|
+|0||[libft](https://github.com/lbengo/42_School/tree/main/Cursus/Libft)|C      | 125% | Create a library of basic C functions.                          |
+|1||[ft_printf](https://github.com/lbengo/42_School/tree/main/Cursus/ft_printf)|C|100%|  Recode the standard C library function, printf.                |
+|1||[GNL](https://github.com/lbengo/42_School/tree/main/Cursus/get_next_line)|C|105% | Read a single line from a file descriptor, can be used in a loop.|
+|2||[so_long](https://github.com/lbengo/42_School/tree/main/Cursus/so_long)|C  |100%. | Create a simple 2D game.                                        |
 </details>
 
 <!--
