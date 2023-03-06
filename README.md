@@ -41,7 +41,6 @@
 	<tr>
             <td>1</td>
             <td><a href=https://github.com/lbengo/42_School/tree/main/Cursus/get_next_line>get_next_line</a></td>
-            <td>[GNL](https://github.com/lbengo/42_School/tree/main/Cursus/get_next_line)</td>
             <td>C</td>
             <td>105%</td>
             <td>Read a single line from a file descriptor, can be used in a loop.</td>
