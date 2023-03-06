@@ -13,13 +13,47 @@
 
 <details>
 <summary>More information about these projects</summary>
-
-| Level| Project                                                  |  Language  | Grade| Description                                                     |
-|------|----------------------------------------------------------|------------|------|-----------------------------------------------------------------|
-|0|| [libft](https://github.com/lbengo/42_School/tree/main/Cursus/Libft)|C      | 125% | Create a library of basic C functions.                         |
-|1|| [ft_printf](https://github.com/lbengo/42_School/tree/main/Cursus/ft_printf)|C|100%|  Recode the standard C library function, printf.               |
-|1|| [GNL](https://github.com/lbengo/42_School/tree/main/Cursus/get_next_line)|C|105%| Read a single line from a file descriptor, can be used in a loop.|
-|2|| [so_long](https://github.com/lbengo/42_School/tree/main/Cursus/so_long)|C  |100%. | Create a simple 2D game.                                       |
+<table>
+    <thead>
+        <tr>
+            <th align="left">Level</th>
+            <th align="left">Project</th>
+            <th align="left">Language</th>
+            <th align="left">Grade</th>
+            <th align="left">Description</th>
+        </tr>
+    </thead>
+    <tbody>
+		    <tr>
+            <td>0</td>
+            <td>[libft](https://github.com/lbengo/42_School/tree/main/Cursus/Libft)</td>
+            <td>C</td>
+            <td>125%</td>
+            <td>Create a library of basic C functions.</td>
+        </tr>
+		    <tr>
+            <td>1</td>
+            <td>[ft_printf](https://github.com/lbengo/42_School/tree/main/Cursus/ft_printf)</td>
+            <td>C</td>
+            <td>100%</td>
+            <td>Recode the standard C library function, printf.</td>
+        </tr>
+		    <tr>
+            <td>1</td>
+            <td>[GNL](https://github.com/lbengo/42_School/tree/main/Cursus/get_next_line)</td>
+            <td>C</td>
+            <td>105%</td>
+            <td>Read a single line from a file descriptor, can be used in a loop.</td>
+        </tr>
+		    <tr>
+            <td>2</td>
+            <td>[so_long](https://github.com/lbengo/42_School/tree/main/Cursus/so_long)</td>
+            <td>C</td>
+            <td>100%</td>
+            <td>Create a simple 2D game.</td>
+        </tr>
+	</tbody>
+<table>
 </details>
 
 <!--
