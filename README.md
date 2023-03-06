@@ -24,30 +24,31 @@
         </tr>
     </thead>
     <tbody>
-		    <tr>
+	<tr>
             <td>0</td>
-            <td>[libft](https://github.com/lbengo/42_School/tree/main/Cursus/Libft)</td>
+            <td><a href=https://github.com/lbengo/42_School/tree/main/Cursus/Libft>libft</a></td>
             <td>C</td>
             <td>125%</td>
             <td>Create a library of basic C functions.</td>
         </tr>
-		    <tr>
+	<tr>
             <td>1</td>
-            <td>[ft_printf](https://github.com/lbengo/42_School/tree/main/Cursus/ft_printf)</td>
+            <td><a href=https://github.com/lbengo/42_School/tree/main/Cursus/ft_printf>ft_printf</a></td>
             <td>C</td>
             <td>100%</td>
             <td>Recode the standard C library function, printf.</td>
         </tr>
-		    <tr>
+	<tr>
             <td>1</td>
+            <td><a href=https://github.com/lbengo/42_School/tree/main/Cursus/get_next_line>get_next_line</a></td>
             <td>[GNL](https://github.com/lbengo/42_School/tree/main/Cursus/get_next_line)</td>
             <td>C</td>
             <td>105%</td>
             <td>Read a single line from a file descriptor, can be used in a loop.</td>
         </tr>
-		    <tr>
+	<tr>
             <td>2</td>
-            <td>[so_long](https://github.com/lbengo/42_School/tree/main/Cursus/so_long)</td>
+            <td><a href=https://github.com/lbengo/42_School/tree/main/Cursus/so_long>so_long</a></td>
             <td>C</td>
             <td>100%</td>
             <td>Create a simple 2D game.</td>
