@@ -50,7 +50,7 @@
             <td><a href=https://github.com/lbengo/42_School/tree/main/Cursus/so_long>so_long</a></td>
             <td>C</td>
             <td>100%</td>
-            <td>Create a simple 2D game.</td>
+            <td>Create a graphical program to generate a simple 2D game.</td>
         </tr>
 	</tbody>
 <table>
