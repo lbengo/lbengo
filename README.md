@@ -52,6 +52,13 @@
             <td>100%</td>
             <td>Create a graphical program to generate a simple 2D game.</td>
         </tr>
+	<tr>
+            <td>2</td>
+            <td><a href=https://github.com/lbengo/42_School/tree/main/Cursus/push_swap>push_swap</a></td>
+            <td>C</td>
+            <td>In process</td>
+            <td>Sort a list of random integers in the least amount of moves possible.</td>
+        </tr>
 	</tbody>
 <table>
 </details>
