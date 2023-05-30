@@ -3,12 +3,14 @@
 ### Projects completed
 
 <div align="center">
+	
 <a href="https://github.com/lbengo/42_School/tree/main/Cursus/push_swap">![42 Badge](https://github.com/lbengo/42_School/blob/main/42_badges/push_swape.png)</a>
 <a href="https://github.com/lbengo/42_School/tree/main/Cursus/pipex">![42 Badge](https://github.com/lbengo/42_School/blob/main/42_badges/pipexe.png)</a>
 <a href="https://github.com/lbengo/42_School/tree/main/Cursus/so_long">![42 Badge](https://github.com/lbengo/42_School/blob/main/42_badges/so_longe.png)</a>
 <a href="https://github.com/lbengo/42_School/tree/main/Cursus/get_next_line">![42 Badge](https://github.com/lbengo/42_School/blob/main/42_badges/get_next_linee.png)</a>
 <a href="https://github.com/lbengo/42_School/tree/main/Cursus/ft_printf">![42 Badge](https://github.com/lbengo/42_School/blob/main/42_badges/ft_printfe.png)</a>
 <a href="https://github.com/lbengo/42_School/tree/main/Cursus/Libft">![42 Badge](https://github.com/lbengo/42_School/blob/main/42_badges/libfte.png)</a>
+
 </div>
 
 <details>
