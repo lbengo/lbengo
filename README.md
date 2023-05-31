@@ -27,6 +27,13 @@
     </thead>
     <tbody>
 	<tr>
+            <td>3</td>
+            <td><a href=https://github.com/lbengo/42_School/tree/main/Cursus/philosophers>philosophers</a></td>
+            <td>C</td>
+            <td>In process</td>
+            <td>Solve the dining philosophers problem using only threads and mutexes.</td>
+        </tr>
+	<tr>
             <td>2</td>
             <td><a href=https://github.com/lbengo/42_School/tree/main/Cursus/push_swap>push_swap</a></td>
             <td>C</td>
