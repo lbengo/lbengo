@@ -3,7 +3,8 @@
 ### Projects completed
 
 <div align="center">
-	
+
+<a href="https://github.com/lbengo/42_School/tree/main/Cursus/philosophers">![42 Badge](https://github.com/lbengo/42_School/blob/main/42_badges/philosophersn.png)</a>
 <a href="https://github.com/lbengo/42_School/tree/main/Cursus/push_swap">![42 Badge](https://github.com/lbengo/42_School/blob/main/42_badges/push_swapn.png)</a>
 <a href="https://github.com/lbengo/42_School/tree/main/Cursus/pipex">![42 Badge](https://github.com/lbengo/42_School/blob/main/42_badges/pipexn.png)</a>
 <a href="https://github.com/lbengo/42_School/tree/main/Cursus/so_long">![42 Badge](https://github.com/lbengo/42_School/blob/main/42_badges/so_longn.png)</a>
@@ -30,7 +31,7 @@
             <td>3</td>
             <td><a href=https://github.com/lbengo/42_School/tree/main/Cursus/philosophers>philosophers</a></td>
             <td>C</td>
-            <td>In process</td>
+            <td>100%</td>
             <td>Solve the dining philosophers problem using only threads and mutexes.</td>
         </tr>
 	<tr>
